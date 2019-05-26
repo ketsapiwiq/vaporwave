@@ -40,20 +40,20 @@
   img.spooky {
     position: absolute;
     left: 500px;
-    top: 82px;
+    top: 182px;
   }
   
   img.statue {
     position: absolute;
     left: 200px;
-    top: 100px;
+    top: 00px;
     width: 250px;
   }
   
   img.checker {
     position: absolute;
     left: 200px;
-    top: 0px;
+    top: 200px;
     width: 600px;
     overflow-y: hidden;
     z-index: -1;
@@ -65,7 +65,7 @@
     width: 400px;
     position: absolute;
     left: -100px;
-    top: -55px;
+    top: 305px;
     animation: hueRotate 5s linear infinite;
   }
   
@@ -75,6 +75,7 @@
     transform: scaleX(-1);
     position: absolute;
     right: -100px;
+    /* top: -55px; */
     top: -55px;
     animation: hueRotate 5s linear infinite;
   }
